@@ -1,4 +1,4 @@
-*English|[中文](README.zh.md)*
+*English|[中文](README.md)*
 # Hack for Wuhan
 As volunteers and developers of Wuhan2020 community, we would like to invite you to our Hackathon: Hack for Wuhan, on 27th and 28th February, 2020. Let us hack together against the global crisis.
 
@@ -53,7 +53,7 @@ Targeted Audiences:
 
 
 ### How to participate
-* [Fill in the registration form] (https://www.bagevent.com/event/6365361)
+* [Fill in the registration form](https://www.bagevent.com/event/6365361)
 * Fork official repository to personal github repository
 * Clone personal github repository to local 
 * Create a personal project folder under the local **** ChallengeProject **** folder and place your entries in your personal folder
