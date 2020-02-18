@@ -1,3 +1,4 @@
+*English|[中文](README.zh.md)*
 # Hack for Wuhan
 As volunteers and developers of Wuhan2020 community, we would like to invite you to our Hackathon: Hack for Wuhan, on 27th and 28th February, 2020. Let us hack together against the global crisis.
 
@@ -50,9 +51,23 @@ Targeted Audiences:
 * By invitation - Judges, mentors, and professionals (entrepreneurs, social innovators, venture capitalists, etc.);
 * Anyone who are interested in and wanted to learn from this event.
 
+
+### How to participate
+* [Fill in the registration form] (https://www.bagevent.com/event/6365361)
+* Fork official repository to personal github repository
+* Clone personal github repository to local 
+* Create a personal project folder under the local **** ChallengeProject **** folder and place your entries in your personal folder
+* Pull request to submit my work to the official repository
+* If you have any questions, you can add our volunteer WeChat: Rob2020
+
+PS: When submitting your project, if the project is a code program,your folder should contain the source code, Readme file (if there is a replacement file is better), and the Readme content includes the work introduction (including the SDK and application scenarios) , Team introduction (including contact information), compilation guide, etc.
+
 ### Judges and Mentors
 * Leader from Stanford PACS
 * Professors in Computer Science at Stanford University, Berkeley, and MIT
 * Product managers from Google, Facebook, ByteDance, etc.
 * Guests from venture capital institutions (GSR Ventures, Andreessen Horowitz)
 * Entrepreneurs from the US, India, China, etc.
+
+### License
+This software is under the MIT License (MIT).
