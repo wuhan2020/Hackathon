@@ -62,8 +62,10 @@
 
 PS：提交作品时，若参赛作品为代码类程序，则提交时本人作品文件夹内须包含源码、Readme文件（若有可执行文件更佳），Readme内容包括作品介绍（包括使用的sdk、应用场景）、团队介绍（包括联系方式）、编译指南等
 
-### 怎么交流
+### 组队交流
 * slack方式交流：先加入官方workspace[wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY),然后加入赛事公共讨论频道[hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE)。此外，每个队伍可在workspace里建立各自队伍的private channel。
+* 微信交流：加我们的志愿者微信号：Rob2020，入群交流
+* Github组队：你也可以在GitHub Wiki发布组队信息参与交流，[组队链接](https://github.com/wuhan2020/Hackathon/wiki)
 ### 导师和评委阵容
 * 斯坦福大学PACS负责人
 * 斯坦福大学，伯克利大学或麻省理工学院的CS教授
