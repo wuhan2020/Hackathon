@@ -62,6 +62,8 @@ Targeted Audiences:
 
 PS: When submitting your project, if the project is a code program,your folder should contain the source code, Readme file (if there is a replacement file is better), and the Readme content includes the work introduction (including the SDK and application scenarios) , Team introduction (including contact information), compilation guide, etc.
 
+### How to communicate
+* Communicate via slack：Join the official workspace [wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY) first. Then join the public discussion channel [hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE). In addition, each team can establish their own private channel in the workspace.
 ### Judges and Mentors
 * Leader from Stanford PACS
 * Professors in Computer Science at Stanford University, Berkeley, and MIT
