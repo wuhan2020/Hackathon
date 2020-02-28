@@ -40,6 +40,42 @@ Works are presented in a free manner, including but not limited to:
 * **Product applications for the epidemic (Git repository, APPs, website, etc.)**
 * **Analysis or survey report and plan (Documents)**
 
+### 
+
+| | Topic | Time |
+| ------ | ---- | ------------------- |
+Phase I | Warm Up | February 28-March 5 (Beijing Time) |
+Phase II | Preliminary Round | March 6-March 7 (Beijing Time) |
+Phase III | Finals | March 8 (Beijing Time) |
+#### During the warm-up:
+
+* From February 28th to March 5th, participating in the online game "Hack for Shanghai Master Class", the big tutors interacted with the registered players by video.
+* From February 29th to March 4th, the online "Lightning Speech", participants freely sign up, introduce ideas through a 3-minute passionate speech, and recruit teammates.
+* On March 5th at 17:00, the deadline for registration of the team and entries. The wuhan2020 community will invite qualified teams to enter the preliminary round the next day before 23:59 on the day of the start.
+* Observation team can speak freely, choose contestants according to preferences, and communicate with them
+
+#### During the preliminary round:
+
+* Tutors open one-on-one coaching sessions daily, with participating teams making appointments in advance and interacting with participating teams online
+* The preliminary contestants submitted the project proposal to the tutor group for evaluation before 23:59 Beijing time on March 7, and entered the final team before 6:00 Beijing time on March 8.
+* The preliminary tutor selects the winner to enter the final. The participating teams can discuss and answer questions through the WeChat group, Slack, RunTheWorld virtual space.
+
+#### During the final:
+
+* The final team will start at 8: 00-11: 00 on March 8th, Beijing time with the mentor to polish the final speech or presentation plan
+* The final team will perform the final roadshow at noon on the same day at noon from 12:00 to 14:00, and the judges will provide opinions on the spot.
+* The awards will be antiques on March 8th from 14:00 to 15:00.
+
+### Match Reward
+* 1 First prize
+* 2 Second prizes
+* 3 Third prizes
+* Best Popularity Award (Tutor Favorite Team)
+* Best Popularity Award (spectator's favorite team)
+
+PS: We will match the Tianchi competition, IBM competition, and Agora competition to provide further incubation, acceleration, and landing opportunities for outstanding projects.
+In addition, Hack for Wuhan itself is a stage for you to directly face big coffee investors and outstanding entrepreneurs.
+
 ### Requirements
 Participants include, but are not limited to:
 * Developers from open source communities (such as Wuhan2020 and other communities on GitHub) who have ideas and prototypes that can solve current challenges and create shared value;
@@ -59,6 +95,7 @@ Targeted Audiences:
 * Create a personal project folder under the local **** ChallengeProject **** folder and place your entries in your personal folder
 * Pull request to submit my work to the official repository
 * If you have any questions, you can add our volunteer WeChat: Rob2020
+* More hackathon related [FAQ](https://mp.weixin.qq.com/s/aTpSMgzkTApSOa82obkFqQ)
 
 PS: When submitting your project, if the project is a code program,your folder should contain the source code, Readme file (if there is a replacement file is better), and the Readme content includes the work introduction (including the SDK and application scenarios) , Team introduction (including contact information), compilation guide, etc.
 
