@@ -1,6 +1,6 @@
 *English|[中文](README.md)*
 # Hack for Wuhan
-As volunteers and developers of Wuhan2020 community, we would like to invite you to our Hackathon: Hack for Wuhan, on 27th and 28th February, 2020. Let us hack together against the global crisis.
+As volunteers and developers of Wuhan2020 community, we would like to invite you to our Hackathon: Hack for Wuhan, on 6th to 8th March, 2020. Let us hack together against the global crisis.
 
 **We believe hackathon can not only inspire the next billion dollar unicorns, but also help unite mission-driven developers and innovators to combat an international outbreak crisis.**
 
@@ -18,7 +18,7 @@ In this online Hackathon, you will team up with other participants to work out c
 * To encourage social innovation so that we can help the fight against the epidemic with open source collaboration and hence create shared value among volunteers, institutions, businesses enterprises, and platforms.
   
 ### Details
-* Timeline: Feb 27th - 28th, 2020
+* Timeline: March 6th - 8th, 2020
 * Method: Online & remote working, distributed collaboration is recommended.
 * Content: design and development competitions based on data provided by "Wuhan 2020"; submit works and pitch videos (idea, introduction, and meaning).
 * Award: the participants and projects will be evaluated by the judges and the community, and the winners will be awarded.
