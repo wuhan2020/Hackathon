@@ -40,7 +40,36 @@ Works are presented in a free manner, including but not limited to:
 * **Product applications for the epidemic (Git repository, APPs, website, etc.)**
 * **Analysis or survey report and plan (Documents)**
 
-### 
+### How to participate
+* Competition Process
+
+| Step    | Topic      | Main content                                                                                    |
+|-------|---------|-----------------------------------------------------------------------------------------|
+| Step1 | Registration      | Registration for Hack for Wuhan [ Registration Link](https://www\.bagevent\.com/event/6365361) |
+| Step2 | Join Wechat Group    | Add wuhan2020 official assistant WeChat (18010625580) into the group, participate in warm-up activities                    |
+| Step3 | Project registration    |Fill in the hackathon contestant registration summary form for project registration and teammate recruitment [Link](https://shimo\.im/sheets/JdR9D6X9CcgDDjGH/MODOC)|
+| Step4 | Recruitment of teammates / mentors | Participate in lightning talks to gather popularity and free team + You can make an appointment for one-on-one coaching during the preliminaries         |                                       
+| Step5 | Formal Development    | Team development and completion of GitHub submission                                       |
+ 
+Step5 GitHub submission process is as follows:
+
+* Fork official repository to personal github repository
+* Clone personal github repository to local 
+* Create a personal project folder under the local ChallengeProject folder, and place the submissions in the personal folder (use the name of your corresponding work). For details, refer to the following table:
+ 
+| Work | Type Submissions in Folder                         |
+|------|------------------------------|
+| Code works | Work README files, including work introduction, team introduction, work link, etc. |
+| Other works | Online storage address of the work (preferably including works introduction, team introduction, etc.)      |
+
+* Pull Request ：Submit your work folder to the official repository
+
+
+PS:
+* If you have other questions, you can also add our official volunteer WeChat: 18010625580
+* More Hackathon related [FAQ](https://mp.weixin.qq.com/s/aTpSMgzkTApSOa82obkFqQ)
+
+### Competition Schedule
 
 | | Topic | Time |
 | ------ | ---- | ------------------- |
@@ -88,29 +117,35 @@ Targeted Audiences:
 * Anyone who are interested in and wanted to learn from this event.
 
 
-### How to participate
-* [Fill in the registration form](https://www.bagevent.com/event/6365361)
-* Fork official repository to personal github repository
-* Clone personal github repository to local 
-* Create a personal project folder under the local **** ChallengeProject **** folder and place your entries in your personal folder
-* Pull request to submit my work to the official repository
-* If you have any questions, you can add our volunteer WeChat: Rob2020
-* More hackathon related [FAQ](https://mp.weixin.qq.com/s/aTpSMgzkTApSOa82obkFqQ)
-
-PS: When submitting your project, if the project is a code program,your folder should contain the source code, Readme file (if there is a replacement file is better), and the Readme content includes the work introduction (including the SDK and application scenarios) , Team introduction (including contact information), compilation guide, etc.
-
 ### How to communicate
 * Communicate via slack：Join the official workspace [wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY) first. Then join the public discussion channel [hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE). In addition, each team can establish their own private channel in the workspace.
 * WeChat communication: add our volunteer WeChat: Rob2020, join the group communication
 * Github: You can also participate in the exchange by publishing team information on the GitHub Wiki, [team link](https://github.com/wuhan2020/Hackathon/wiki)
 
 ### Judges and Mentors
-* Fang Aizhi, Founding Partner and CEO of Zhenge Fund
-* Eva Woo, Head of PACS, Stanford University
-* Cao Yuwen, Partner of Miracle Creation
-* CS Professor, Stanford University
-* Product manager from Google, Facebook, ByteDance, etc.
-* Entrepreneurs from the United States, India, China, etc.
+* Jaggie Zhu, Ex-Director, AI Product Development, Byte Dance 
+* Klaus Wang, Sequoia Capital, VP 
+* Wen Han, GSR Ventures, Investor 
+* Huimin Lu, Microsoft Cloud and AI Strategy Sr Manager 
+* Weili Dong, CEO, President 
+* Haimo Liu, Alibaba Cloud, Staff Product Manager 
+* bigjoe, Product Manager，Google 
+* Chun Jiang, Product Design @ Scale AI 
+* Han Chen, Software Engineer/ Blogger 
+* Tianyu Bao, Product Manager at Uber 
+* Kate Jia, Sr Product Designer @devicebook, Product Lead of Wuhan 2020 
+* Matt Zhao, Google/Software Engineer 
+* Sean Wang, Facebook Software Engineer 
+* Claire Li, Pinterest, Sr. Software Engineer 
+* Tianyu Wu, Facebook 
+* Jason Gui, Vue Glasses CTO 
+* Borui Wang, Polarr, Founder and CEO 
+* Jack Duan, Gliding Eagle Inc., Founder and CEO 
+* Huan Xu, Serial Entrepreneur 
+* Xi Fang, Founding Partner of Button 
+* Peter Qian, covariant.ai, Head of Engineering 
+* Gordon Cheng, Wilson Sonsini, Attorney 
+* Cindy Cao, Didi，Senior Software Engineer
 
 ### License
 This software is under the MIT License (MIT).
