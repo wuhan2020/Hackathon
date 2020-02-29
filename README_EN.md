@@ -105,11 +105,12 @@ PS: When submitting your project, if the project is a code program,your folder s
 * Github: You can also participate in the exchange by publishing team information on the GitHub Wiki, [team link](https://github.com/wuhan2020/Hackathon/wiki)
 
 ### Judges and Mentors
-* Leader from Stanford PACS
-* Professors in Computer Science at Stanford University, Berkeley, and MIT
-* Product managers from Google, Facebook, ByteDance, etc.
-* Guests from venture capital institutions (GSR Ventures, Andreessen Horowitz)
-* Entrepreneurs from the US, India, China, etc.
+* Fang Aizhi, Founding Partner and CEO of Zhenge Fund
+* Eva Woo, Head of PACS, Stanford University
+* Cao Yuwen, Partner of Miracle Creation
+* CS Professor, Stanford University
+* Product manager from Google, Facebook, ByteDance, etc.
+* Entrepreneurs from the United States, India, China, etc.
 
 ### License
 This software is under the MIT License (MIT).
