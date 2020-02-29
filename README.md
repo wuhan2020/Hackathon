@@ -1,4 +1,4 @@
-﻿*Chinese|[英文](README_EN.md)*
+﻿*中文|[English](README_EN.md)*
 
 # Hack for Wuhan 黑客马拉松等你来战
 作为Wuhan2020社区的志愿者和开发人员，我们将发起另一场活动：在 2020年2月底，启动Hack for Wuhan黑客马拉松，在此诚邀您利用自己的技能，为抗击疫情贡献一份力量！
