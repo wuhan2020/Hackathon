@@ -123,6 +123,11 @@ Targeted Audiences:
 * Github: You can also participate in the exchange by publishing team information on the GitHub Wiki, [team link](https://github.com/wuhan2020/Hackathon/wiki)
 
 ### Judges and Mentors
+* Anna Fang, Founding Partner & CEO at ZhenFund 
+* Eva Woo, China Program Manager, Stanford PACS 
+* Xuwen Cao, Partner of MiraclePlus 
+* Rick Zhuang, Ex-CTO, Tmall New Retail at Alibaba 
+* Xander Wu, Founder of Hack for Wuhan@wuhan2020
 * Jaggie Zhu, Ex-Director, AI Product Development, Byte Dance 
 * Klaus Wang, Sequoia Capital, VP 
 * Wen Han, GSR Ventures, Investor 
