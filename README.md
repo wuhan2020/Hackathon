@@ -117,12 +117,37 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 
 
 ### 导师和评委阵容
-* 方爱之，真格基金创始合伙人兼CEO
-* Eva Woo, 斯坦福大学PACS负责人
-* 曹勖文，奇迹创坛合伙人
-* 斯坦福大学CS教授
-* 来自Google，Facebook，ByteDance等的产品经理
-* 来自美国，印度，中国等地的创业者等
+* 方爱之，真格基金创始合伙人兼CEO 
+* 吴莹，斯坦福慈善与社会创新中心中国项目负责人 
+* 曹勖文，奇迹创坛合伙人 
+* 庄子明，前CTO，阿里巴巴天猫新零售 
+* 吴雪，Hack for Wuhan发起人，wuhan2020创始成员 
+* 朱辰，前AI产品总监，字节跳动 
+* Klaus Wang，红杉资本，VP 
+* 韩文，金沙江创业投资，投资人 
+* 逯慧敏，微软云和AI战略高级经理 
+* 董韦利，华人创业者协会 会长 
+* Haimo Liu，阿里云主任产品经理 
+* 硅谷大舅，Google产品经理 
+* 蒋寸寸，产品设计师@Scale AI 
+* Han Chen，硅谷大厂软件工程师，大V博主 
+* Tianyu Bao，Uber产品经理 
+* Kate Jia，高级产品设计师，wuhan2020 产品负责人 
+* Matt Zhao，Google 软件工程师 
+* Sean Wang，Facebook软件工程师 
+* Claire Li，Pnterest 高级软件工程师 
+* Tianyu Wu，Facebook 
+* 桂家勋，Vue Glasses CTO 
+* 王博瑞，泼辣修图，创始人、CEO 
+* 段一鸣，Jack Duan 
+* 许欢，连续创业者 
+* 曲晓音，CEO, Run The World 
+* Thomas Reese，Run The World 
+* 蒋璇，Run The World联合创始人兼CTO 
+* 方晰，巴特恩资本创始合伙人 
+* Peter Qian，covariant.ai, 研发主管 
+* Gordon Cheng，Wilson Sonsini, 律师 
+* Cindy Cao，滴滴，高级软件工程师
 
 ### 代码许可
 The MIT License（MIT）
