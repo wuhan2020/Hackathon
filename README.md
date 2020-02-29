@@ -88,20 +88,31 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 * 任何对此活动感兴趣并想要观摩学习的人
 
 ### 怎么参与
-* [填写报名表单](https://www.bagevent.com/event/6365361)
+* 参赛流程
+
+|   步骤  | 具体内容                                                                                     |
+|-----|------------------------------------------------------------------------------------------|
+| Step1 | 注册Hack for Wuhan活动 [报名链接](https://www.bagevent.com/event/6365361)             |
+| Step2| 微信扫码入群，免费参加大师课等热身活动                                               |
+| Step3 | 填写黑客松大赛参赛选手登记汇总表进行参赛项目注册及队友招募 [链接](https://shimo.im/sheets/JdR9D6X9CcgDDjGH/MODOC) |
+| Step4| 参加闪电演讲聚拢人气、自由组队  \+ 预赛期间可预约参加导师一对一辅导                                        |
+| Step5 | 组队开发，完成Github作品提交                                                                        |
+ 
+Github提交作品流程如下：
 * Fork官方仓库至个人github仓库
 * Clone个人github仓库至本地
-* 在本地 ****ChallengeProject**** 文件夹下创建个人项目文件夹，将参赛作品放置个人文件夹（取自己对应作品的名字）
-* Pull Request 提交本人作品至官方仓库
+* 在本地 ****ChallengeProject**** 文件夹下创建个人项目文件夹，将提交内容放置个人文件夹（取自己对应作品的名字），具体可参考如下表格：
+
+| 作品类型 | 文件夹内提交内容                         |
+|------|------------------------------|
+| 代码作品 | 作品README文件，包括作品介绍、团队介绍、作品链接等 |
+| 其他作品 | 作品网盘链接（最好包含作品介绍、团队介绍等）       |
+
+* Pull Request 提交本人作品文件夹至官方仓库
+
 * 若有其他疑问，也可加我们的志愿者微信号：Rob2020
 * 更多黑客松相关[FAQ](https://mp.weixin.qq.com/s/aTpSMgzkTApSOa82obkFqQ)
 
-PS：提交作品时，若参赛作品为代码类程序，则提交时本人作品文件夹内须包含源码、Readme文件（若有可执行文件更佳），Readme内容包括作品介绍、团队介绍（包括联系方式）、编译指南等
-
-### 组队交流
-* slack方式交流：先加入官方workspace[wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY),然后加入赛事公共讨论频道[hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE)。此外，每个队伍可在workspace里建立各自队伍的private channel。
-* 微信交流：加我们的志愿者微信号：Rob2020，入群交流
-* Github组队：你也可以在GitHub Wiki发布组队信息参与交流，[组队链接](https://github.com/wuhan2020/Hackathon/wiki)
 
 ### 导师和评委阵容
 * 方爱之，真格基金创始合伙人兼CEO
