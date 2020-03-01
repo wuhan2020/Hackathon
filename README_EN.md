@@ -64,9 +64,14 @@ Presentation of presented in a free way for open source works, including but not
 | Step1 | Registration      | Registration for Hack for Wuhan [ Registration Link](https://www\.bagevent\.com/event/6365361) |
 | Step2 | Join Wechat Group    | Add wuhan2020 official assistant WeChat (18010625580) into the group, participate in warm-up activities                    |
 | Step3 | Project registration    |Fill in the hackathon contestant registration summary form for project registration and teammate recruitment [Link](https://shimo\.im/sheets/JdR9D6X9CcgDDjGH/MODOC)|
-| Step4 | Recruitment of teammates / mentors | Participate in lightning talks to gather popularity and free team + You can make an appointment for one-on-one coaching during the preliminaries         |                                       
+| Step4 | Recruitment of teammates / mentors | Participate in lightning talks to gather popularity and free team + You can make an appointment for one-on-one coaching during the preliminaries （Slack team organizition）        |                      
 | Step5 | Formal Development    | Team development and completion of GitHub submission                                       |
  
+ 
+Step4 The Slack team organizition process is as follows:
+
+* Add the official Slack workspace: [wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY), then join the event public discussion channel: [hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE). In addition, each team member can set up their own dedicated channel in the work area.
+
 Step5 GitHub submission process is as follows:
 
 * Fork official repository to personal github repository
