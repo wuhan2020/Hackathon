@@ -179,5 +179,8 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 * Gordon Cheng，Wilson Sonsini, 律师 
 * Cindy Cao，滴滴，高级软件工程师
 
+### 感谢
+![合作伙伴](https://s2.ax1x.com/2020/03/01/3cs2K1.jpg)
+
 ### 代码许可
 The MIT License（MIT）
