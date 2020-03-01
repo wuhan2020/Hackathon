@@ -64,9 +64,12 @@
 | Step1 | 报名      | 注册Hack for Wuhan活动 [报名链接](https://www\.bagevent\.com/event/6365361)                 |
 | Step2 | 微信进群    | 添加wuhan2020官方助手微信号（18010625580）入群，免费参加大师课等热身活动                              |
 | Step3 | 项目注册    | 填写黑客松大赛参赛选手登记汇总表进行参赛项目注册及队友招募 [相关链接](https://shimo\.im/sheets/JdR9D6X9CcgDDjGH/MODOC)|
-| Step4 | 队友/导师招募 | 参加闪电演讲聚拢人气、自由组队 + 预赛期间可预约参加导师一对一辅导         |                                       
+| Step4 | 队友/导师招募 | 参加闪电演讲聚拢人气、自由组队 + 预赛期间可预约参加导师一对一辅导 （Slack组队）        |                          
 | Step5 | 正式开发    | 组队开发，完成GitHub作品提交                                                                       |
  
+Step4 Slack组队流程如下：
+* 加Slack官方 Workspace：wuhan2020，然后加入赛事公共讨论频道：hack-for-wuhan。此外，每个队伍可在workspace里建立各自队伍的private channel。
+
 Step5 GitHub提交作品流程如下：
 * Fork官方仓库至个人GitHub仓库
 * Clone个人GitHub仓库至本地
