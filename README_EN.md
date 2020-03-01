@@ -180,5 +180,8 @@ Targeted Audiences:
 * Gordon Cheng, Wilson Sonsini, Attorney 
 * Cindy Cao, Didi，Senior Software Engineer
 
+### Thanks
+![Parters](https://s2.ax1x.com/2020/03/01/3cs2K1.jpg)
+
 ### License
 This software is under the MIT License (MIT).
