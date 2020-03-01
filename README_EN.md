@@ -24,22 +24,39 @@ In this online Hackathon, you will team up with other participants to work out c
 * Award: the participants and projects will be evaluated by the judges and the community, and the winners will be awarded.
 
 ### Scopes
-Related to the emerging global public health crisis, the COVID-19 outbreak, the topics may include:
-* Annotated data for the epidemic
-* Innovative applications of related technologies
-* Social welfare promotion and science popularization
-* Solutions to various social challenges arising from this public crisis
-  
-### Forms
-Works are presented in a free manner, including but not limited to:
-* **Artworks, such as video and animation (compressed files)**
-* **Dynamic Webpages (Website)**
-* **Open Source Data (Git repository, etc.)**
-* **Data Analytics and Prediction Models (Git repository, website, etc.)**
-* **Visualization, such as platform and website (Website, etc.)**
-* **Product applications for the epidemic (Git repository, APPs, website, etc.)**
-* **Analysis or survey report and plan (Documents)**
+#### General Theme: 
+Solve Social Crisis and Challenges behind Coronovirus Epidemics with Digitalazation and Open Collaboration
 
+Alternative directions include but no limited to:
+
+* Data analytics, development, and product application related to the COVID-19 outbreak
+    - data annotation scheme
+    - data model construction
+    - data visualization
+    - product application
+
+* Positive popularization and publicity for fighting against COVID-19
+    - Creation of video or music, etc
+    - Visual design (posters, articles, information graphs, etc.) 
+    - Novel applications based on treaming or social media platform
+
+* Outbreak rescue and disaster relief support and various other solutions to public crises
+    - Materials: Online hospital resource matching, disaster relief material identification, material dispatching, warehousing, logistics, scheduling, etc.
+    - Personnel: Detection plan, psychological first aid, contactless delivery, etc.
+    - Information:
+          Information timeliness and transparent sharing, validation, e.g. blockchain based authenticity verification
+          Open source information for charity and social welfare platforms
+          E-commerce big data, data processing systems (such as online database connecting medical care, living, and materials)
+          Personal information tracking (such as: GPS activity trajectory analysis, contact risk of infected areas, traffic trips, wifi hotspot tracking, etc.)
+    - Collaboration: cloud collaboration, personnel online and offline collaboration management solutions, etc.
+  
+### Forms of the works to be submitted
+* Presentation of presented in a free way for open source works, including but not limited to:
+    - GitHub online submission of open source code or related links
+    - for open source works submitted via Github, please choose the open source protocol. For legal consultation, please * contact the conference committee for support.
+    - if the development data needs to indicate the uniqueness after submiiting to Github, please upload it to Zenodo and and * get the digital object identifier (DOI) identity from the platform.
+      https://zenodo.org
+* other guided commits
 ### How to participate
 * Competition Process
 
@@ -67,7 +84,7 @@ Step5 GitHub submission process is as follows:
 
 PS:
 * If you have other questions, you can also add our official volunteer WeChat: 18010625580
-* More Hackathon related [FAQ](https://mp.weixin.qq.com/s/aTpSMgzkTApSOa82obkFqQ)
+* More Hackathon related [FAQ](https://shimo.im/docs/D9H6DXh8WPGvD69X/)
 
 ### Competition Schedule
 
@@ -82,6 +99,8 @@ Phase III | Finals | March 8 (Beijing Time) |
 * From February 29th to March 4th, the online "Lightning Speech", participants freely sign up, introduce ideas through a 3-minute passionate speech, and recruit teammates.
 * On March 5th at 17:00, the deadline for registration of the team and entries. The wuhan2020 community will invite qualified teams to enter the preliminary round the next day before 23:59 on the day of the start.
 * Observation team can speak freely, choose contestants according to preferences, and communicate with them
+* **Deadline of organizing teams and project submission: 5pm, Mar 5th 2020 Beijing Time**
+* **wuhan2020 Community will invite eligible teams to attend the preliminary competition in March 6th**
 
 #### During the preliminary round:
 
