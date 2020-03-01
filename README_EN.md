@@ -149,6 +149,12 @@ Targeted Audiences:
 * By invitation - Judges, mentors, and professionals (entrepreneurs, social innovators, venture capitalists, etc.);
 * Anyone who are interested in and wanted to learn from this event.
 
+### Hackathon Live Course (Continuously Updated)
+| Live time				                 | Number of episodes	     | Themes                                 | Content                                                          | Guests                    | Video links                                         |
+|--------------------------|---------|------------------------------------|---------------------------------------------------------------------|-----------------------|-----------------------------------------------|
+| 2/27 20:15-21:15 | First | How to complete the prototype construction from zero to one in three days? Google product manager has something to say | (1) After the epidemic, overseas technical homes How to Participate in Material Rescue <br> (2) How does the Google headquarters PM develop? <3> How to complete a new product model in 3 days | *Bigjoe <br> *Xander <br> | [Link](https://www.acfun.cn/v/ac13334580)|
+|2/28 10:00-11:00 | Second  | 72 hours to realize your brainhole product | (1) The epidemic has spawned a new type of product <br> (2)  How the product designed in 72 hours and has sense  <br> (3) How the design will affect the iteration of the product from scratch | *Chun Jiang<br> *Xander |
+
 
 ### Judges and Mentors
 * Anna Fang, Founding Partner & CEO at ZhenFund 
@@ -180,7 +186,7 @@ Targeted Audiences:
 * Gordon Cheng, Wilson Sonsini, Attorney 
 * Cindy Cao, Didi，Senior Software Engineer
 
-### Thanks
+### Thanks (Continuously Updated)
 ![Parters](https://s2.ax1x.com/2020/03/01/3cs2K1.jpg)
 
 ### License
