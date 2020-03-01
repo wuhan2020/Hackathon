@@ -70,7 +70,9 @@ Presentation of presented in a free way for open source works, including but not
  
 Step4 The Slack team organizition process is as follows:
 
-* Add the official Slack workspace: [wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY), then join the event public discussion channel: [hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE). In addition, each team member can set up their own dedicated channel in the work area.
+* Add the official Slack workspace: [wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY),
+* Then join the event public discussion channel: [hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE)
+* In addition, each team member can set up their own dedicated channel in the work area.
 
 Step5 GitHub submission process is as follows:
 
