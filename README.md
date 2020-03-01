@@ -68,7 +68,9 @@
 | Step5 | 正式开发    | 组队开发，完成GitHub作品提交                                                                       |
  
 Step4 Slack组队流程如下：
-* 加Slack官方 Workspace：wuhan2020，然后加入赛事公共讨论频道：hack-for-wuhan。此外，每个队伍可在workspace里建立各自队伍的private channel。
+* 首先添加Slack官方 Workspace：[wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
+* 然后加入赛事公共讨论频道：[hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE)
+* 此外，每个队伍可在workspace里建立各自队伍的private channel。
 
 Step5 GitHub提交作品流程如下：
 * Fork官方仓库至个人GitHub仓库
