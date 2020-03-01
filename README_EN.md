@@ -24,8 +24,7 @@ In this online Hackathon, you will team up with other participants to work out c
 * Award: the participants and projects will be evaluated by the judges and the community, and the winners will be awarded.
 
 ### Scopes
-#### General Theme: 
-Solve Social Crisis and Challenges behind Coronovirus Epidemics with Digitalazation and Open Collaboration
+#### General Theme: Solve Social Crisis and Challenges behind Coronovirus Epidemics with Digitalazation and Open Collaboration
 
 Alternative directions include but no limited to:
 
@@ -51,12 +50,12 @@ Alternative directions include but no limited to:
     - Collaboration: cloud collaboration, personnel online and offline collaboration management solutions, etc.
   
 ### Forms of the works to be submitted
-* Presentation of presented in a free way for open source works, including but not limited to:
-    - GitHub online submission of open source code or related links
-    - for open source works submitted via Github, please choose the open source protocol. For legal consultation, please * contact the conference committee for support.
-    - if the development data needs to indicate the uniqueness after submiiting to Github, please upload it to Zenodo and and * get the digital object identifier (DOI) identity from the platform.
-      https://zenodo.org
+Presentation of presented in a free way for open source works, including but not limited to:
+* GitHub online submission of open source code or related links
+* for open source works submitted via Github, please choose the open source protocol. For legal consultation, please * contact the conference committee for support.
+* if the development data needs to indicate the uniqueness after submiiting to Github, please upload it to Zenodo and and * get the digital object identifier (DOI) identity from the platform. https://zenodo.org
 * other guided commits
+
 ### How to participate
 * Competition Process
 
@@ -130,16 +129,26 @@ Participants include, but are not limited to:
 * Volunteers who want to increase social impact through open source;
 * Entrepreneurs who actively tackle the challenges of COVID-19 and social crises.
 
+Registration requirements for the teams participating in the prelimianry competition:
+
+* Please fill in the following registration form with description of your idea/project.
+  - If you would provide more details , please insert a link to a self-established online document in the Links column.
+  - wuhan2020 Hack for Wuhan committee will review all the information provided.
+  - [Link](https://shimo.im/sheets/JdR9D6X9CcgDDjGH/MODOC)
+
+* Each participant may initiate or intend to join multiple ideas/projects, but each participate should in only one team/project after the registration deadline(5pm, Mar 5th 2020 Beijing Time).It's preferred to provide members' resumes in Links colum.
+
+* Ideas/projects with following information will be preferred:
+  - a clear description of the project background
+  - a cleasr description of the problem to be solved or user needs
+  - having some knowledge or research on custormers or markets
+
+
 Targeted Audiences:
 * Individual and team participants;
 * By invitation - Judges, mentors, and professionals (entrepreneurs, social innovators, venture capitalists, etc.);
 * Anyone who are interested in and wanted to learn from this event.
 
-
-### How to communicate
-* Communicate via slack：Join the official workspace [wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY) first. Then join the public discussion channel [hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE). In addition, each team can establish their own private channel in the workspace.
-* WeChat communication: add our volunteer WeChat: Rob2020, join the group communication
-* Github: You can also participate in the exchange by publishing team information on the GitHub Wiki, [team link](https://github.com/wuhan2020/Hackathon/wiki)
 
 ### Judges and Mentors
 * Anna Fang, Founding Partner & CEO at ZhenFund 
