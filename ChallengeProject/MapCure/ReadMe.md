@@ -7,6 +7,7 @@
 ### 实时疫情  
 * 在“实时疫情”版块里，我们能看到全国各个地级市的疫情情况，且通过地图层级的钻取，可进入到县级尺度，尽可能获取到细粒度更高的统计数据。
 *  同时，疫情的累计、死亡、治愈趋势以折线图呈现、确诊患者的年龄分布和性别分布以饼图呈现，以便让大家了解疫情在不同维度上的分布和趋势。
+
 <img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%851.jpg"  height="330" width="495">
 ![image](https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%851.jpg)
 ![image](https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%852.jpg)
