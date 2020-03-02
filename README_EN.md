@@ -63,7 +63,7 @@ Presentation of presented in a free way for open source works, including but not
 |-------|---------|-----------------------------------------------------------------------------------------|
 | Step1 | Registration      | Registration for Hack for Wuhan [ Registration Link](https://www\.bagevent\.com/event/6365361) |
 | Step2 | Join Wechat Group    | Add wuhan2020 official assistant WeChat (18010625580) into the group, participate in warm-up activities                    |
-| Step3 | Project registration    |Fill in the hackathon contestant registration summary form for project registration and teammate recruitment [Link](https://shimo\.im/sheets/JdR9D6X9CcgDDjGH/MODOC)|
+| Step3 | Project registration    |Fill in the hackathon contestant registration summary form for project registration and teammate recruitment [Link](https://shimo.im/sheets/H9YqPyTthRqCYj8P/MODOC)|
 | Step4 | Recruitment of teammates / mentors | Participate in lightning talks to gather popularity and free team + You can make an appointment for one-on-one coaching during the preliminaries （Slack team organizition）        |                      
 | Step5 | Formal Development    | Team development and completion of GitHub submission                                       |
  
@@ -141,7 +141,7 @@ Registration requirements for the teams participating in the prelimianry competi
 * Please fill in the following registration form with description of your idea/project.
   - If you would provide more details , please insert a link to a self-established online document in the Links column.
   - wuhan2020 Hack for Wuhan committee will review all the information provided.
-  - [Link](https://shimo.im/sheets/JdR9D6X9CcgDDjGH/MODOC)
+  - [Link](https://shimo.im/sheets/H9YqPyTthRqCYj8P/MODOC)
 
 * Each participant may initiate or intend to join multiple ideas/projects, but each participate should in only one team/project after the registration deadline(5pm, Mar 5th 2020 Beijing Time).It's preferred to provide members' resumes in Links colum.
 
