@@ -175,7 +175,7 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 * Kate Jia，高级产品设计师，wuhan2020 产品负责人 
 * Matt Zhao，Google 软件工程师 
 * Sean Wang，Facebook软件工程师 
-* Claire Li，Pnterest 高级软件工程师 
+* Claire Li，Pinterest 高级软件工程师 
 * Tianyu Wu，Facebook 
 * 桂家勋，Vue Glasses CTO 
 * 王博瑞，泼辣修图，创始人、CEO 
