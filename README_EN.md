@@ -169,7 +169,7 @@ Targeted Audiences:
 * Xuwen Cao, Partner of MiraclePlus 
 * Rick Zhuang, Ex-CTO, Tmall New Retail at Alibaba 
 * Xander Wu, Founder of Hack for Wuhan@wuhan2020
-* Jaggie Zhu, Ex-Director, AI Product Development, Byte Dance 
+* Jaggie Zhu, Ex-Director, Investoment & AI Product Development, ByteDance
 * Klaus Wang, Sequoia Capital, VP 
 * Wen Han, GSR Ventures, Investor 
 * Huimin Lu, Microsoft Cloud and AI Strategy Sr Manager 
