@@ -8,10 +8,7 @@
 * 在“实时疫情”版块里，我们能看到全国各个地级市的疫情情况，且通过地图层级的钻取，可进入到县级尺度，尽可能获取到细粒度更高的统计数据。
 *  同时，疫情的累计、死亡、治愈趋势以折线图呈现、确诊患者的年龄分布和性别分布以饼图呈现，以便让大家了解疫情在不同维度上的分布和趋势。
 
-<img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%851.jpg" width=375/>
-<img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%852.jpg" width=375/>
-<img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%853.jpg" width=375/>
-<img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%854.jpg" width=375/>
+<img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%851.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%852.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%853.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E5%AE%9E%E6%97%B6%E7%96%AB%E6%83%854.jpg" width=375/>
 
 ### 战“疫”排行
 *  通过战“疫”排行这个版块，我们能够更方便了解到这场“战疫”的各地区“战况”。将全国各省份乃至世界部分国家疫情`新增数减少`情况，简单明了地呈现并排行。排名越前，说明当日新增数较于前日减少的越多，增加人们的信心。抗疫鏖战，全国人民一起在努力！为你的家乡打榜加油！
@@ -25,9 +22,7 @@
 *  教育支援目前包括免费文献服务和部分教育平台提供的服务的整合。
 *  求职资源目前主要针对受疫情影响的广大应届生、实习生的求职需求，提供不同的求职渠道供参考。
 
-<img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F1.jpg" width=375/><img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F2.jpg" width=375/>
-<img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F3.jpg" width=375/>
-<img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F4.jpg" width=375/>
+<img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F1.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F2.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F3.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E6%94%AF%E6%8F%B4%E5%8A%9B%E9%87%8F4.jpg" width=375/>
 ## 团队介绍
 **不会敲代码的dancer不是一个好PM**
 
