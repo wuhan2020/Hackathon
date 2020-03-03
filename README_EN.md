@@ -193,6 +193,15 @@ Targeted Audiences:
 * Gordon Cheng, Wilson Sonsini, Attorney 
 * Cindy Cao, Didi，Senior Software Engineer
 
+### Sponsors
+
+Thanks to the following sponsors who support Hack for Wuhan, click the link to check the resources and application method.
+
+- [IBM Developer](./SPONSORS_EN.md#IBM%20Developer)
+- [Agora.io](./SPONSORS_EN.md#Agora.io)
+- [Tencent cloud](./SPONSORS.md#Tencent%20cloud)
+- [Microsoft](./SPONSORS.md#Microsoft)
+
 ### Thanks (Continuously Updated)
 ![Parters](https://s2.ax1x.com/2020/03/01/3cs2K1.jpg)
 
