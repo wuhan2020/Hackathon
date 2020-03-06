@@ -82,11 +82,20 @@ Step5 GitHub submission process is as follows:
  
 | Work | Type Submissions in Folder                         |
 |------|------------------------------|
-| Code works | Work README files, including work introduction, team introduction, work link, etc. |
-| Other works | Online storage address of the work (preferably including works introduction, team introduction, etc.)      |
+| Code works | Personal Github project link, etc. (Source code is placed in personal GitHub repository, for details, please refer to the introduction below) |
+| Other works | Links to works, etc. (for details, please refer to the introduction below)      |
 
 * Pull Request ：Submit your work folder to the official repository
 
+#### Submissions include:
+In addition to the work link, the submission of the work must include ppt, no more than 5 minutes of video, or various other magical forms to show your progress so far. (PPT content can refer to the following)
+
+* Focus on verifying the solution and proving that your idea is worth continuing.
+* Be sure to explain the technical feasibility and commercial feasibility, you can Freestyle!
+* Business model: How are your products / solutions acquired by customers? What's unique and new compared to existing solutions?
+* Technology prototype: software, hardware? In the final presentation, it is best to include a dynamic presentation (physical * display, product demonstration, animation, video, etc.)
+* Industrial design, wireframe / sample
+* Current progress (percentage) of works, difficulties encountered, and future plans
 
 PS:
 * If you have other questions, you can also add our official volunteer WeChat: 18010625580
