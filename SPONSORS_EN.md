@@ -5,10 +5,17 @@ Thanks to the following sponsors who support Hack for Wuhan
 ## IBM Developer
 
 ### Resources
+- IBM Developer accelerates your Wuhan 2020 projects !
 
-- IBM Developer provides free IBM Cloud platform,Code Patterns and regular technical webinars to help accelarate your build
-- Register for IBM Cloud now: https://cloud.ibm.com/registration
-- Check out many free, open source Code Patterns: https://developer.ibm.com/patterns/
+- IBM Developer provides free Cloud platform, Code Patterns and regular technical webinars that enable you build better and faster.
+      Register for IBM Cloud now:  https://cloud.ibm.com/registration
+      After having IBM Cloud ID, for applying 90 days free try code from here :https://dsgapp.cn.edst.ibm.com/dbg/cloud/index.html?sn=wuhan2020
+      Check out many free, open source Code Patterns:  https://developer.ibm.com/patterns/
+
+- IBM  LinuxONE™ Community Cloud provides all developers with no-charge, open access to an enterprise grade Linux environment, including RHEL, SLES, Ubuntu Server and Blockchain Platform  
+Register for LinuxONE now : https://developer.ibm.com/linuxone/
+
+
 
 
 ## Agora.io
