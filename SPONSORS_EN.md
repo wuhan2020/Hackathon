@@ -1,6 +1,6 @@
-# Sponsors
+# Resources
 
-Thanks to the following sponsors who support Hack for Wuhan
+Thanks to the following companies who support Hack for Wuhan
 
 ## IBM Developer
 
