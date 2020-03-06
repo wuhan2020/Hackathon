@@ -189,9 +189,9 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 * Gordon Cheng，Wilson Sonsini, 律师 
 * Cindy Cao，滴滴，高级软件工程师
 
-### 赞助商
+### 资源提供
 
-感谢一下赞助商对本次黑客松的赞助，点击赞助商查看具体赞助资源、申请方式等。
+感谢以下厂商对本次黑客松的赞助，点击链接查看具体赞助资源、申请方式等。
 
 - [IBM Developer](./SPONSORS.md#IBM%20Developer)
 - [声网](./SPONSORS.md#声网)
