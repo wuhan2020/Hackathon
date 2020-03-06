@@ -5,11 +5,15 @@
 ## IBM Developer
 
 ### 赞助资源列表
+- IBM Developer 全面助力 Wuhan 2020抗击疫情
 
-- IBM 开发者 （IBM Developer）为开发者提供免费IBM 云平台支持、基于场景的开源应用以及定期的线上技术专家分享，帮助您更好、更快地开发解决方案。
-- 注册 IBM 云平台：https://cloud.ibm.com/registration
-- 查看海量免费基于业务场景的开源应用：https://developer.ibm.com/cn/patterns/
-- 还为开发者提供120天IBM LinuxONE - blockchain platform的试用，方便参赛选手构建区块链应用及网络。
+- IBM 开发者（IBM Developer）为大家提供免费云平台支持、基于场景的开源应用以及定期的线上技术专家分享，帮助您更好更快地开发解决方案。
+      即刻注册 IBM Cloud  ：https://cloud.ibm.com/registration
+      成功注册 IBM Cloud 后，申请90天试用激活码： https://dsgapp.cn.edst.ibm.com/dbg/cloud/index.html?sn=wuhan2020
+      查找海量免费的基于业务场景的开源应用 ：https://developer.ibm.com/cn/patterns/
+
+- IBM LinuxONE™ 社区开发云为全球所有开发者提供120天免费的企业级 Linux 服务器环境，包括 RHEL，SLES 以及 Ubuntu Server，以及安全强大的区块链平台。
+   即刻试用 LinuxONE :https://developer.ibm.com/linuxone/
 
 
 ## 声网
