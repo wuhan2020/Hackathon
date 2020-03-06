@@ -120,7 +120,7 @@ Phase III | Finals | March 8 (Beijing Time) |
 #### During the preliminary round:
 
 * Tutors open one-on-one coaching sessions daily, with participating teams making appointments in advance and interacting with participating teams online
-* The preliminary contestants submitted the project proposal to the tutor group for evaluation before 23:59 Beijing time on March 7, and entered the final team before 6:00 Beijing time on March 8.
+* The preliminary contestants submit project works before 17:00, March 7, Beijing time. After the assessment, the mentor group will inform the teams that entered the final before 23:59, Beijing time.
 * The preliminary tutor selects the winner to enter the final. The participating teams can discuss and answer questions through the WeChat group, Slack, RunTheWorld virtual space.
 
 #### During the final:
