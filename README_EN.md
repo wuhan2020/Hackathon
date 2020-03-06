@@ -195,7 +195,7 @@ Targeted Audiences:
 
 ### Resources
 
-Thanks to the following sponsors who support Hack for Wuhan, click the link to check the resources and application method.
+Thanks to the following companies who support Hack for Wuhan, click the link to check the resources and application method.
 
 - [IBM Developer](./SPONSORS_EN.md#IBM%20Developer)
 - [Agora.io](./SPONSORS_EN.md#Agora.io)
