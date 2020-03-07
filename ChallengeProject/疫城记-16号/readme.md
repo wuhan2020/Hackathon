@@ -36,6 +36,5 @@
 
 ### 介绍视频：
 
-链接：https://pan.baidu.com/s/1_D9Pc0hz6xyUxL7KRDKTGQ 
-提取码：gtbn
+见附件
 
