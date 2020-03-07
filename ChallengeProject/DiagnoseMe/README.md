@@ -5,12 +5,23 @@
 Diagnosis and geolocation platform  in real time for suspected cases of COVID-19
 
 In order to reduce the risk of transmission of  on the way to the hospital and promote rapid management, our project will implement a mobile application for remote self-diagnosis of symptoms (thanks to connected objects) and suspected case mapping  so that a specialized ambulance can travel to the scene to remove the suspected patient.
-  
+   
 
-# General Fonctions
+# Main Fonctions
+FAQ on COVID-19 (HELP)
 Remote Diagnose
-Prevention Guide
-Suspected cases mapping
+Get the constants of the user using captors and make the diagnosis
+Prevention (TIPS)
+Geolocation and Management of the suspected cases by Hospital 
+Hospital Notification
+
+
+
+
+
+
+ 
+
 
 
 # About DiagnoseMe ?
