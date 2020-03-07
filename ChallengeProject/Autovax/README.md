@@ -17,6 +17,9 @@ Welcome to the autovax-docs wiki!
 * Trello self-invite link:  https://trello.com/invite/b/CNkcGjJN/f60f1fb1471959b2ab13e19e58a1426d/autovax
 ## Collaborate on GitHub
 * GitHub link:  https://github.com/Autovax/AutovaxWeb
+## Demo
+* http://ec2-54-166-13-51.compute-1.amazonaws.com/
+
 ## Summary of conversations on ShiMo (may need WeChat account to access):
 * ShiMo link:  https://shimo.im/docs/pvvR6HJTcTJDPdgx/ 「autovax / conversations」，可复制链接后用石墨文档 App 或小程序打开
 
