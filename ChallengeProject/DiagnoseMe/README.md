@@ -15,15 +15,6 @@ Prevention (TIPS)
 Geolocation and Management of the suspected cases by Hospital 
 Hospital Notification
 
-
-
-
-
-
- 
-
-
-
 # About DiagnoseMe ?
 A remote self-diagnosis of symptoms and suspected cases mapping and notification.
 
