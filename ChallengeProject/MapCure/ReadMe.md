@@ -23,6 +23,10 @@
 *  求职资源目前主要针对受疫情影响的广大应届生、实习生的求职需求，提供不同的求职渠道供参考。
 
 <img src="https://github.com/rov3rn/test/blob/master/%E5%8C%BB%E7%96%97.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E6%95%99%E8%82%B2.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E6%B1%82%E8%81%8C.jpg" width=375/>    <img src="https://github.com/rov3rn/test/blob/master/%E7%89%A9%E8%B5%84.jpg" width=375/>
+
+## 项目链接
+http://ncov-map-2019.c95efadc12de84c788bc6d6423cbb5cd2.cn-beijing.alicontainer.com/webroot/decision/view/form?op=h5&viewlet=nCoV2019.frm#/form
+
 ## 团队介绍
 **不会敲代码的dancer不是一个好PM**
 
