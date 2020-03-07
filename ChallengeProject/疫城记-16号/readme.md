@@ -36,5 +36,6 @@
 
 ### 介绍视频：
 
-见附件：`疫城记-视频介绍.mp4`
+链接：https://pan.baidu.com/s/1_D9Pc0hz6xyUxL7KRDKTGQ 
+提取码：gtbn
 
