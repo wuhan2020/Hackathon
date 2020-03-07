@@ -7,3 +7,7 @@
 
 ##### 项目开源地址——https://github.com/Epidemic-situation-story/Story-store
 
+##### 后端接口地址——http://smo430ppgzzg.leanapp.cn/apidoc/
+
+##### 目前小程序还未完成，前端还在编写中
+
