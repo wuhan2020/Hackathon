@@ -24,8 +24,8 @@ After a travel or presence on public place
 2. Enter your age, location and contact;
 3. Follow the different tests requested with phone and captors;
 4. Get your results.
-If the test results is positive. Do not worry an ambulance will come and assist you for further examination.Stay home.
-If the test results is nagative see preventions guide.
+If the result of the test is positive, do not worry an ambulance will come and assist you for further examination.Stay home.
+If the result of the test is negative, see preventions guide.
 
 
 
@@ -33,7 +33,7 @@ If the test results is nagative see preventions guide.
 ![Schematic Presentation](logo.jpg)
 Format: ![Alt Text](url)
 Please see logo.jpg below
-# TEAM COMPOSE
+# TEAM MEMBERS
 Please see powerpoint and video file below
 
 
