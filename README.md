@@ -201,7 +201,7 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 * 范晶晶，Datawhale创始人，wuhan2020发起人
 * 李扬，wuhan2020发起人，AI工程师
 * Tianyu Bao，Uber产品经理
-* Matt Zhao，Google 软件工程师 
+* Matt Zhao，Google 软件工程师
 * Sean Wang，Facebook软件工程师 
 * Claire Li，Pinterest 高级软件工程师
 * Tianyu Wu，Facebook高级产品设计师

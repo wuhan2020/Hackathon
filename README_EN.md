@@ -194,7 +194,7 @@ Targeted Audiences:
 * Chun Jiang, Product Design @ Scale AI 
 * Han Chen, Software Engineer/ Blogger 
 * Xiaoyin Qu, CEO of Run The World
-* Kate Jia, Sr Product Designer @devicebook, Product Lead of Wuhan 2020 
+* Kate Jia, Sr Product Designer @devicebook, Product Lead of Wuhan 2020
 * Jingjing Fan, Founder of Datawhale and founder of wuhan2020
 * Yang Li, Founder of wuhan2020, AI engineer
 * Tianyu Bao, Product Manager at Uber 
