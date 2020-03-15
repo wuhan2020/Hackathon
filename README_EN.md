@@ -160,10 +160,12 @@ Registration requirements for the teams participating in the prelimianry competi
   - having some knowledge or research on custormers or markets
 
 
-Targeted Audiences:
-* Individual and team participants;
-* By invitation - Judges, mentors, and professionals (entrepreneurs, social innovators, venture capitalists, etc.);
+Targeted Participants:
 * Anyone who are interested in and wanted to learn from this event.
+* Individual and team participants;
+* By invitation only - Judges, mentors, and professionals (entrepreneurs, social innovators, venture capitalists, etc.);
+  * Members of Judge Committee come from world-renowned technology or business companies or social innovation institutions and have big impact to their industries;
+  * Judge Committee will score all the projects and evaluate novelness, commercial or social value, and feasibility of them, and decide teams to be promoted and awarded.
 
 ### Hackathon Live Course (Continuously Updated)
 | Live time				                 | Number of episodes	     | Themes                                 | Content                                                          | Guests                    | Video links                                         |
