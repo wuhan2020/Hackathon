@@ -1,4 +1,4 @@
-﻿*中文|[English](README_EN.md)*
+*中文|[English](README_EN.md)*
 
 # Hack for Wuhan 黑客马拉松等你来战
 作为wuhan2020社区的志愿者和开发人员，我们将发起另一场活动：在 2020年2月底，启动Hack for Wuhan黑客马拉松，在此诚邀您利用自己的技能，为抗击疫情贡献一份力量！
@@ -64,9 +64,9 @@
 | Step1 | 报名      | 注册Hack for Wuhan活动 [报名链接](https://www\.bagevent\.com/event/6365361)                 |
 | Step2 | 微信进群    | 添加wuhan2020官方助手微信号（18010625580）入群，免费参加大师课等热身活动                              |
 | Step3 | 项目注册    | 填写黑客松大赛参赛选手登记汇总表进行参赛项目注册及队友招募 [相关链接](https://shimo.im/sheets/H9YqPyTthRqCYj8P/MODOC)|
-| Step4 | 队友/导师招募 | 参加闪电演讲聚拢人气、自由组队 + 预赛期间可预约参加导师一对一辅导 （Slack组队）        |                          
+| Step4 | 队友/导师招募 | 参加闪电演讲聚拢人气、自由组队 + 预赛期间可预约参加导师一对一辅导 （Slack组队）        |
 | Step5 | 正式开发    | 组队开发，完成GitHub作品提交                                                                       |
- 
+
 Step4 Slack组队流程如下：
 * 首先添加Slack官方 Workspace：[wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY)
 * 然后加入赛事公共讨论频道：[hack-for-wuhan](https://app.slack.com/client/TT5U1VCPQ/CUBUWGJKE)
@@ -89,7 +89,7 @@ Step5 GitHub提交作品流程如下：
 - 专注于验证解决方案，证明你的想法值得继续做下去。
 - 一定要讲清楚技术可行性和商业可行性，可以Freestyle!
 - 业务模式：你的产品/方案如何被客户获取？比起现有的解决方案，有什么独特的、新的地方？
-- 技术原型：软件、硬件？在最终演示的时候，最好包含一个动态演示喔（实物展示、产品演示、动画、录像等等）
+- 技术原型：软件、硬件，在最终演示的时候，最好包含一个动态演示喔（实物展示、产品演示、动画、录像等等）
 - 工业设计、线框图/小样
 - 作品目前进度（百分比），遇到的困难，以及未来规划
 
@@ -152,10 +152,12 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
     - 清晰描述要解决的问题或用户需求
     - 对客户或市场有一定的了解或进行过调研
 
-欢迎三类观众：
+欢迎三类参与人员：
+* 对此活动感兴趣并想要观摩学习的人
 * Hackathon参赛个人及团队
 * 受邀人-评委，导师，专业人员（企业家，社会创新者，风险投资人等）
-* 任何对此活动感兴趣并想要观摩学习的人
+  * 评委组成员须来自国际知名科技、商业及公益创新机构并在所处行业具有重大影响力
+  * 评委组成员将对参赛项目进行评分，评估参赛团队的创新性、商业及公益价值、技术可行性等，并进行晋级和获奖评定
 
 ### 黑客松直播课程（持续更新）
 | 直播时间				                 | 期数	     | 主题                                 | 分享内容                                                                | 嘉宾                    | 视频链接                                          |
@@ -176,37 +178,54 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 * 如果有任何意外事件影响本次活动的正常开展，举办方有权取消、更改相关事项或规则。本次活动及其规则最终解释权归举办方所有。
 
 
-### 导师和评委阵容
-* 方爱之，真格基金创始合伙人兼CEO 
+### 评委组
+* 方爱之，真格基金创始合伙人兼CEO
+* Connie Chan，Andreessen Horowitz合伙人
 * 吴莹，斯坦福慈善与社会创新中心中国项目负责人 
 * 曹勖文，奇绩创坛合伙人（原YC中国） 
-* 庄子明，前CTO，阿里巴巴天猫新零售 
-* 吴雪，Hack for Wuhan发起人，wuhan2020创始成员 
+* 庄子明，前CTO，阿里巴巴天猫新零售
+* 吴雪，Hack for Wuhan发起人，wuhan2020创始成员
+* 王伟，wuhan2020发起人
 * 朱辰，前投资与AI创新总监，字节跳动
-* Klaus Wang，红杉资本，VP 
-* 韩文，金沙江创业投资，投资人 
-* 逯慧敏，微软云和AI战略高级经理 
-* 董韦利，华人创业者协会 会长 
-* Haimo Liu，阿里云主任产品经理 
-* 硅谷大舅，Google产品经理 
-* 蒋寸寸，产品设计师@Scale AI 
-* Han Chen，硅谷大厂软件工程师，大V博主 
-* Tianyu Bao，Uber产品经理 
-* Kate Jia，高级产品设计师，wuhan2020 产品负责人 
-* Matt Zhao，Google 软件工程师 
+* 赵生宇，同济大学计算机在读博士，wuhan2020发起人
+* 刘天栋，开源社联合创始人
+
+### 顾问及导师
+
+* 韩文，金沙江创业投资，投资人
+* 逯慧敏，微软云和AI战略高级经理
+* Klaus Wang，红杉资本，VP
+* 硅谷大舅，Google产品经理
+* 蒋寸寸，产品设计师@Scale AI
+* Han Chen，硅谷大厂软件工程师，大V博主
+* 曲晓音，CEO, Run The World
+* Kate Jia，高级产品设计师，wuhan2020 产品负责人
+* 范晶晶，Datawhale创始人，wuhan2020发起人
+* 李扬，wuhan2020发起人，AI工程师
+* Tianyu Bao，Uber产品经理
+* Matt Zhao，Google 软件工程师
 * Sean Wang，Facebook软件工程师 
-* Claire Li，Pinterest 高级软件工程师 
-* Tianyu Wu，Facebook 
+* Claire Li，Pinterest 高级软件工程师
+* Tianyu Wu，Facebook高级产品设计师
 * 桂家勋，Vue Glasses CTO 
 * 王博瑞，泼辣修图，创始人、CEO 
 * 段一鸣，Jack Duan 
-* 许欢，连续创业者 
-* 曲晓音，CEO, Run The World 
-* Thomas Reese，Run The World 
-* 蒋璇，Run The World联合创始人兼CTO 
-* 方晰，巴特恩资本创始合伙人 
+* 许欢，连续创业者
+* 方晰，巴特恩资本创始合伙人
 * Peter Qian，covariant.ai, 研发主管 
-* Gordon Cheng，Wilson Sonsini, 律师 
+* Gordon Cheng，Wilson Sonsini, 律师
+* Thomas Reese，Run The World技术负责人
+* Yuxi Feng，谷歌软件工程师
+* 刘钟泽，谷歌软件工程师
+* 陈立中，红帽公司资深高级工程师
+* 王世帅，AWS机器学习解决方案架构师
+* Haimo Liu，阿里云主任产品经理
+* 董韦利，华人创业者协会 会长
+* Frederic，Coderbunker联合创始人
+* Mohammed Ben-Thaier，软件工程师
+* Samantha Christoff，全栈工程师，InfoSec Idol
+* Martin Bahr，Senior Team Lead
+* 蒋璇，Run The World联合创始人兼CTO
 * Cindy Cao，滴滴，高级软件工程师
 
 ### 资源提供

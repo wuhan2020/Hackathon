@@ -48,7 +48,7 @@ Alternative directions include but no limited to:
           E-commerce big data, data processing systems (such as online database connecting medical care, living, and materials)
           Personal information tracking (such as: GPS activity trajectory analysis, contact risk of infected areas, traffic trips, wifi hotspot tracking, etc.)
     - Collaboration: cloud collaboration, personnel online and offline collaboration management solutions, etc.
-  
+
 ### Forms of the works to be submitted
 Presentation of presented in a free way for open source works, including but not limited to:
 * GitHub online submission of open source code or related links
@@ -64,10 +64,10 @@ Presentation of presented in a free way for open source works, including but not
 | Step1 | Registration      | Registration for Hack for Wuhan [ Registration Link](https://www\.bagevent\.com/event/6365361) |
 | Step2 | Join Wechat Group    | Add wuhan2020 official assistant WeChat (18010625580) into the group, participate in warm-up activities                    |
 | Step3 | Project registration    |Fill in the hackathon contestant registration summary form for project registration and teammate recruitment [Link](https://shimo.im/sheets/H9YqPyTthRqCYj8P/MODOC)|
-| Step4 | Recruitment of teammates / mentors | Participate in lightning talks to gather popularity and free team + You can make an appointment for one-on-one coaching during the preliminaries （Slack team organizition）        |                      
+| Step4 | Recruitment of teammates / mentors | Participate in lightning talks to gather popularity and free team + You can make an appointment for one-on-one coaching during the preliminaries （Slack team organizition）        |
 | Step5 | Formal Development    | Team development and completion of GitHub submission                                       |
- 
- 
+
+
 Step4 The Slack team organizition process is as follows:
 
 * Add the official Slack workspace: [wuhan2020](https://join.slack.com/t/wuhan2020/shared_invite/enQtOTQxMTU4MzgyNTYwLWIxMTMyNWI4NWE2YTk3NGRjZGJhMjUzNmJhMjg1MDQ3OTEzNDE5NGY4MWFhMjRlYWU4MmE3ZGQyOGU4N2YwMzY),
@@ -79,7 +79,7 @@ Step5 GitHub submission process is as follows:
 * Fork official repository to personal github repository
 * Clone personal github repository to local 
 * Create a personal project folder under the local ChallengeProject folder, and place the submissions in the personal folder (use the name of your corresponding work). For details, refer to the following table:
- 
+
 | Work | Type Submissions in Folder                         |
 |------|------------------------------|
 | Code works | Personal Github project link, etc. (Source code is placed in personal GitHub repository, for details, please refer to the introduction below) |
@@ -160,10 +160,12 @@ Registration requirements for the teams participating in the prelimianry competi
   - having some knowledge or research on custormers or markets
 
 
-Targeted Audiences:
-* Individual and team participants;
-* By invitation - Judges, mentors, and professionals (entrepreneurs, social innovators, venture capitalists, etc.);
+Targeted Participants:
 * Anyone who are interested in and wanted to learn from this event.
+* Individual and team participants;
+* By invitation only - Judges, mentors, and professionals (entrepreneurs, social innovators, venture capitalists, etc.);
+  * Members of Judge Committee come from world-renowned technology or business companies or social innovation institutions and have big impact to their industries;
+  * Judge Committee will score all the projects and evaluate novelness, commercial or social value, and feasibility of them, and decide teams to be promoted and awarded.
 
 ### Hackathon Live Course (Continuously Updated)
 | Live time				                 | Number of episodes	     | Themes                                 | Content                                                          | Guests                    | Video links                                         |
@@ -172,27 +174,36 @@ Targeted Audiences:
 |2/28 10:00-11:00 | Second  | Realize your brain hole in 72 hours.Product design logic & Data & sense of life. | (1) What new products have emerged from the epidemic？ <br> (2) How does a 72 hour product have a sense of life？ <br> (3)How does design affect product iteration from scratch？ | *Chun Jiang<br> *Xander | [Link](https://www.acfun.cn/v/ac13367025) |
 |3/3 9:00-10:00 | Third  | What kind of hack spirit and implementation style do  hackathon need？ | (1) In the competition, how should engineers help guide the team to steadily advance the Hackathon project? Recommended process?<br> （2）How should engineers allocate physical strength in Hackathon? How are tasks assigned?<br> （3） How should engineers cultivate product thinking? Are these abilities useful for competition and work?<br> （4）What development style should engineers follow? What are the differences between Hackathon and normal work and school? | *Han Chen<br> *Qu xiaoyin |
 
-### Judges and Mentors
-* Anna Fang, Founding Partner & CEO at ZhenFund 
+### Judge Committee
+
+* Anna Fang, Founding Partner & CEO at ZhenFund
+* Connie Chan, General Partner at Andreessen Horowitz
 * Eva Woo, China Program Manager, Stanford PACS 
 * Xuwen Cao, Partner of MiraclePlus 
-* Rick Zhuang, Ex-CTO, Tmall New Retail at Alibaba 
+* Rick Zhuang, Ex-CTO, Tmall New Retail at Alibaba
 * Xander Wu, Founder of Hack for Wuhan@wuhan2020
+* Wei Wang, Founder of wuhan2020
 * Jaggie Zhu, Ex-Director, Investoment & AI Product Development, ByteDance
-* Klaus Wang, Sequoia Capital, VP 
+* Frank Zhao, Ph.D in Tongji University and founder of wuhan2020
+* Ted Liu, Cofounder of Kaiyuanshe
+
+### Advisors and Mentors
+
 * Wen Han, GSR Ventures, Investor 
 * Huimin Lu, Microsoft Cloud and AI Strategy Sr Manager 
-* Weili Dong, CEO, President 
-* Haimo Liu, Alibaba Cloud, Staff Product Manager 
+* Klaus Wang, Sequoia Capital, VP 
 * bigjoe, Product Manager，Google 
 * Chun Jiang, Product Design @ Scale AI 
 * Han Chen, Software Engineer/ Blogger 
+* Xiaoyin Qu, CEO of Run The World
+* Kate Jia, Sr Product Designer @devicebook, Product Lead of Wuhan 2020
+* Jingjing Fan, Founder of Datawhale and founder of wuhan2020
+* Yang Li, Founder of wuhan2020, AI engineer
 * Tianyu Bao, Product Manager at Uber 
-* Kate Jia, Sr Product Designer @devicebook, Product Lead of Wuhan 2020 
 * Matt Zhao, Google/Software Engineer 
 * Sean Wang, Facebook Software Engineer 
 * Claire Li, Pinterest, Sr. Software Engineer 
-* Tianyu Wu, Facebook 
+* Tianyu Wu, Facebook Senior Product Designer
 * Jason Gui, Vue Glasses CTO 
 * Borui Wang, Polarr, Founder and CEO 
 * Jack Duan, Gliding Eagle Inc., Founder and CEO 
@@ -200,6 +211,18 @@ Targeted Audiences:
 * Xi Fang, Founding Partner of Button 
 * Peter Qian, covariant.ai, Head of Engineering 
 * Gordon Cheng, Wilson Sonsini, Attorney 
+* Thomas Reese, Tech Lead of Run The World
+* Yuxi Feng, Software Engineer, Google
+* Zhongze Liu, Software Engineer, Google
+* Lizhong Chen, Senior Engineer, Redhat
+* Shishuai Wang, Machine Learning Solution Architect, AWS
+* Haimo Liu, Alibaba Cloud, Staff Product Manager
+* Weili Dong, CEO, President 
+* Frederic, Cofounder of Coderbunker
+* Mohammed Ben-Thaier, Software Engineer
+* Samantha Christoff, Full Stack Engineer, InfoSec Idol
+* Martin Bahr, Senior Team Lead
+* Xuan Jiang，Cofounder and CTO of Run The World
 * Cindy Cao, Didi，Senior Software Engineer
 
 ### Resources
