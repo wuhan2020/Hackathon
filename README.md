@@ -1,4 +1,4 @@
-*中文|[English](README_EN.md)*
+﻿*中文|[English](README_EN.md)*
 
 # Hack for Wuhan 黑客马拉松等你来战
 作为wuhan2020社区的志愿者和开发人员，我们将发起另一场活动：在 2020年2月底，启动Hack for Wuhan黑客马拉松，在此诚邀您利用自己的技能，为抗击疫情贡献一份力量！
@@ -200,6 +200,7 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 * Han Chen，硅谷大厂软件工程师，大V博主
 * 曲晓音，CEO, Run The World
 * Kate Jia，高级产品设计师，wuhan2020 产品负责人
+* Anurag Yadav, 联合创始人兼CEO, PrimaFelicitas
 * 范晶晶，Datawhale创始人，wuhan2020发起人
 * 李扬，wuhan2020发起人，AI工程师
 * Tianyu Bao，Uber产品经理

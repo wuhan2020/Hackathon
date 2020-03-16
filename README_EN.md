@@ -197,6 +197,7 @@ Targeted Participants:
 * Han Chen, Software Engineer/ Blogger 
 * Xiaoyin Qu, CEO of Run The World
 * Kate Jia, Sr Product Designer @devicebook, Product Lead of Wuhan 2020
+* Anurag Yadav, Cofounder and CEO, PrimaFelicitas
 * Jingjing Fan, Founder of Datawhale and founder of wuhan2020
 * Yang Li, Founder of wuhan2020, AI engineer
 * Tianyu Bao, Product Manager at Uber 
