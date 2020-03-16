@@ -1,4 +1,4 @@
-*English|[中文](README.md)*
+﻿*English|[中文](README.md)*
 # Hack for Wuhan
 As volunteers and developers of Wuhan2020 community, we would like to invite you to our Hackathon: Hack for Wuhan, on 6th to 8th March, 2020. Let us hack together against the global crisis.
 
@@ -181,9 +181,9 @@ Targeted Participants:
 * Eva Woo, China Program Manager, Stanford PACS 
 * Xuwen Cao, Partner of MiraclePlus 
 * Rick Zhuang, Ex-CTO, Tmall New Retail at Alibaba
-* Xander Wu, Founder of Hack for Wuhan@wuhan2020
+* Xue Wu (Xander), Founder of Hack for Wuhan@wuhan2020
 * Wei Wang, Founder of wuhan2020
-* Jaggie Zhu, Ex-Director, Investoment & AI Product Development, ByteDance
+* Chen Zhu (Jaggie), Ex-Director, Investoment & AI Product Development, ByteDance
 * Frank Zhao, Ph.D in Tongji University and founder of wuhan2020
 * Ted Liu, Cofounder of Kaiyuanshe
 
