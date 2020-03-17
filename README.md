@@ -239,7 +239,7 @@ PS:我们将对接天池大赛、IBM大赛、声网Agora大赛等，为优秀项
 - [微软](./SPONSORS.md#微软)
 
 ### 感谢（持续更新）
-![合作伙伴](https://s2.ax1x.com/2020/03/01/3cs2K1.jpg)
+![合作伙伴](https://s1.ax1x.com/2020/03/17/8tH9r4.png)
 
 ### 代码许可
 The MIT License（MIT）
