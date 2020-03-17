@@ -236,7 +236,7 @@ Thanks to the following companies who support Hack for Wuhan, click the link to 
 - [Microsoft](./SPONSORS.md#Microsoft)
 
 ### Thanks (Continuously Updated)
-![Parters](https://s2.ax1x.com/2020/03/01/3cs2K1.jpg)
+![Parters](https://s1.ax1x.com/2020/03/17/8tHnMD.png)
 
 ### License
 This software is under the MIT License (MIT).
